@@ -1,19 +1,15 @@
+
 <p align="center">
-![me](https://user-images.githubusercontent.com/33809562/149059338-3ff40288-f181-4731-8423-92a3dcf32f38.jpg)
+<img src="https://user-images.githubusercontent.com/33809562/149059338-3ff40288-f181-4731-8423-92a3dcf32f38.jpg" width="1200" height="250">
 </p>
-<!--
-**thecodeforest/thecodeforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a data scientist based in Portland, Oregon. Things I've done recently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Personal Website](https://www.thecodeforest.io/)
 
+At present, my main interests are:
+
+- :chart_with_upwards_trend: Data science
+- :football: Fantasy Football
+- :running: Running
 
