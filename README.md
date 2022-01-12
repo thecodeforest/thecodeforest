@@ -13,3 +13,11 @@ At present, my main interests are:
 - :football: Fantasy Football
 - :running: Running
 
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thecodeforest&show_icons=true"/>
+</p>
+
+<hr>
+
